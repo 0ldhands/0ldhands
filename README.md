@@ -13,7 +13,7 @@ Our mission is to **grow together**, enhance our **technical skills**, and deliv
 ### 🛠️ Our Tech Stack
 
 #### 💻 Frontend
-- **HTML5** | **CSS3** | **JavaScript (ES6+)**
+- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> | **CSS3** | **JavaScript (ES6+)**
 - **React.js** | **Tailwind CSS** | **Bootstrap**
 
 #### 🖥️ Backend
