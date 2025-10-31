@@ -10,18 +10,15 @@ We are a team of **MERN Stack Developers** enthusiastic about learning, building
 Our mission is to **grow together**, enhance our **technical skills**, and deliver **quality projects** that reflect our creativity and collaboration.
 
 ---
+## 🛠️ Our Tech Stack
 
-### 🛠️ Our Tech Stack
+| Category | Technologies |
+|-----------|---------------|
+| 💻 **Frontend** | <img width="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/> **HTML5** <br> <img width="30" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/> **CSS3** <br> <img width="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> **JavaScript (ES6+)** <br> <img width="30" src="https://img.icons8.com/officel/48/react.png" alt="React.js"/> **React.js** <br> <img width="30" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/> **Tailwind CSS** <br> <img width="30" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/> **Bootstrap** |
+| 🖥️ **Backend** | <img width="30" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> **Node.js** <br> <img width="30" src="https://img.icons8.com/color/48/express.png" alt="Express.js"/> **Express.js** |
+| 🗄️ **Database** | <img width="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/> **MongoDB** <br> <img width="30" src="https://img.icons8.com/?size=48&id=90519&format=png" alt="Mongoose"/> **Mongoose** |
 
-#### 💻 Frontend
-- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> | **CSS3** | **JavaScript (ES6+)**
-- **React.js** | **Tailwind CSS** | **Bootstrap**
-
-#### 🖥️ Backend
-- **Node.js** | **Express.js**
-
-#### 🗄️ Database
-- **MongoDB** | **Mongoose**
+---
 
 #### ⚙️ Tools & Platforms
 - **Git & GitHub** | **VS Code** | **Postman** | **Figma**
