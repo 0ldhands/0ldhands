@@ -1,7 +1,8 @@
 <img src="https://i.pinimg.com/originals/27/1b/99/271b999c4fd1f90c36524214d35bc9c5.gif" alt="mincraft" width="900" height="250">
-# 👋 Welcome to Oldhandz GitHub
 
-🚀 **MERN Stack Developement** | 💻 Passionate about Full Stack Web Development | 🤝 Collaborative Learning and Building
+### ***Welcome to Oldhandz GitHub***
+
+🚀 **MERN Stack Developement**  | 💻 Passionate about Full Stack Web Development | 🤝 Collaborative Learning and Building
 
 ---
 
@@ -20,8 +21,12 @@ Our mission is to **grow together**, enhance our **technical skills**, and deliv
 
 ---
 
-#### ⚙️ Tools & Platforms
-- **Git & GitHub** | **VS Code** | **Postman** | **Figma**
+#### ⚙️ Tools & Platforms  
+
+| Git | GitHub | VS Code | Postman | Figma |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40" /> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /> | <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" /> | <img width="40" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40" /> |
+
 
 ---
 
