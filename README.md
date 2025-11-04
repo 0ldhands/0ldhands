@@ -34,7 +34,7 @@ Our mission is to **grow together**, enhance our **technical skills**, and deliv
 <p align="left">
 <a href="https://www.linkedin.com/in/team-linkedin-id/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:teamemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://oldhandz.online/" target="_blank" alt="website">Our website</a>
+<a href="https://oldhandz.online/" target="_blank" alt="website"><img width="48" height="48" src="https://img.icons8.com/doodle/48/domain.png" alt="domain"/></a>
 </p>
 
 ---
